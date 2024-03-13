@@ -1,0 +1,1 @@
+"use strict";exports.id=468,exports.ids=[468],exports.modules={4468:(e,s,a)=>{a.r(s),a.d(s,{default:()=>r});var d=a(5036),i=a(990),t=a(3939),l=a(6428);let r=({slice:e})=>d.jsx(t.g,{as:"section",className:"bg-white leading-relaxed",children:d.jsx("div",{className:(0,i.Z)("twoColumns"===e.variation&&"md:columns-2 md:gap-6"),children:d.jsx(l.v,{field:e.primary.text})})})}};
